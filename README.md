@@ -2,29 +2,33 @@
 
 A landing page template for the Frontend Mentality challenge.
 
-## Getting Started
+## How It Works
 
-1. Fork this repository
-2. Deploy it (Vercel, Netlify, GitHub Pages, etc.)
-3. Submit your deployed URL to Frontend Mentality
+1. **Fork this repo** - Click the "Fork" button above to create your own copy
+2. **Fix the issues** - Clone your fork and make improvements to the code
+3. **Deploy your version** - Push your changes and deploy (see options below)
+4. **Submit your URL** - Paste your deployed URL into Frontend Mentality to get scored
 
-## Deployment Options
+## Quick Deploy
 
-### GitHub Pages
-1. Go to Settings > Pages
-2. Set source to "main" branch
-3. Your site will be at `https://yourusername.github.io/broken-landing-template`
+### GitHub Pages (Easiest)
+1. In your forked repo, go to **Settings > Pages**
+2. Under "Source", select **main** branch
+3. Click Save
+4. Your site will be live at `https://YOUR-USERNAME.github.io/broken-landing`
 
 ### Vercel
-1. Import this repo at vercel.com/new
-2. Deploy with default settings
+1. Go to [vercel.com/new](https://vercel.com/new)
+2. Import your forked repository
+3. Deploy with default settings
 
 ### Netlify
-1. Drag and drop this folder at netlify.com/drop
+1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
+2. Drag and drop your project folder
 
 ## Files
 
-- `index.html` - The page markup
-- `styles.css` - All the styling
+- `index.html` - Page structure
+- `styles.css` - Styling
 
 Good luck!
